@@ -1,0 +1,65 @@
+    *{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        color: white;
+    }
+
+    body{
+        background-color: black;
+
+        padding: 0 30px;
+    }
+
+    main{
+        width: 100%;
+    }
+
+    .container{
+        width: 100%;
+        max-width: 450px;
+        height: auto;
+        margin: 150px auto 0 auto;
+        background-color: rgb(31, 30, 30);
+        border-radius: 10px;
+    }
+
+    .img-profile{
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+    }
+
+    .contain-socialmedia{
+        width: 90%;
+        margin: 0 auto;
+        padding: 10px;
+    }
+
+    .link{
+        width: 100%;
+        margin: 5px 0;
+        padding: 10px 0;
+    }
+
+    .button{
+        width: 100%;
+        display: inline-block;
+        text-decoration: none;
+        border-radius: 10px;
+        padding: 20px 0;
+        background-color: rgb(57, 58, 58); 
+    }
+
+    .attribution{
+        padding: 15px 0;
+    }
+
+    .button:hover{
+        background-color: greenyellow;
+        color: black;
+    }
+
+
+
+
